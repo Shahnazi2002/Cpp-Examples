@@ -1,2 +1,2 @@
-# Cpp-Examples
-C++ Starter Examples
+# Examples:
+01 - Greeting
