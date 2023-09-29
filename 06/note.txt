@@ -1,0 +1,1 @@
+This program should take an input phrase and convert all its letters to uppercase.
