@@ -1,0 +1,1 @@
+Write a C++ program that takes an array of numbers as its input and provides the average of the entries in return.
