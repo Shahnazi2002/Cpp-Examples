@@ -1,0 +1,1 @@
+A simple program that converts Fahrenheit to Celsius and vice versa (no decimal).
