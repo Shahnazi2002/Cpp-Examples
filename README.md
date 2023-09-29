@@ -8,3 +8,5 @@
 04 - Temperature Conversion
 
 05 - Float Product
+
+06 - All Uppercase 
