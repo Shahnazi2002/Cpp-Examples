@@ -10,3 +10,5 @@
 05 - Float Product
 
 06 - All Uppercase 
+
+07 - Average Calculator
