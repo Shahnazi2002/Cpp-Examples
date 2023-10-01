@@ -12,3 +12,5 @@
 06 - All Uppercase 
 
 07 - Average Calculator
+
+08 - Multiplication Table
