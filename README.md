@@ -14,3 +14,5 @@
 07 - Average Calculator
 
 08 - Multiplication Table
+
+09 - Trim String Function
